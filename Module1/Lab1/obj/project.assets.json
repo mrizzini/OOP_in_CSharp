@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/Module1/Module1.csproj",
-      "projectName": "Module1",
-      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/Module1/Module1.csproj",
+      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab1/Lab1.csproj",
+      "projectName": "Lab1",
+      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab1/Lab1.csproj",
       "packagesPath": "/Users/matthewrizzini/.nuget/packages/",
-      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/Module1/obj/",
+      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

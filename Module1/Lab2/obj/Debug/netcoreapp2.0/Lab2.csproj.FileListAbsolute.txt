@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/bin/Debug/netcoreapp2.0/Lab2.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/bin/Debug/netcoreapp2.0/Lab2.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/bin/Debug/netcoreapp2.0/Lab2.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/bin/Debug/netcoreapp2.0/Lab2.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/bin/Debug/netcoreapp2.0/Lab2.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/obj/Debug/netcoreapp2.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/obj/Debug/netcoreapp2.0/Lab2.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/obj/Debug/netcoreapp2.0/Lab2.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/obj/Debug/netcoreapp2.0/Lab2.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Intro to OOP (EDX)/OOP_in_CSharp/Module1/Lab2/obj/Debug/netcoreapp2.0/Lab2.pdb
