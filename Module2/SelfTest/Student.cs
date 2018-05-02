@@ -2,9 +2,8 @@ using System;
 
 namespace SelfTest
 {
-    // Declaring the Car() Class
-    // This class has 3 properties: Color, Year, and Mileage
-    public class Student
+    // Declaring the Student() Class, inheriting from Person
+    internal class Student : Person
     {
         // Defining properties
         public string name { get; set; }
@@ -12,13 +11,28 @@ namespace SelfTest
         public string dorm { get; set; }
 
 
-        //Adding Constructore
+        // Adding Constructor
         public Student(string name, int Year, string dorm)
         {
             this.name = name;
             this.Year = Year;
             this.dorm = dorm;
             // Every time the constructor runs, increment "instances"
+            instances++;
+        }
+
+        public string takeTest()
+        {
+            return "Student is currently taking a test";
+        }
+
+
+        public Student(string gender, string eyeColor, string nationality)
+        {
+            this.gender = gender;
+            this.eyeColor = eyeColor;
+            this.nationality = nationality;
+            // this.takeTest = takeTest();
             instances++;
         }
 

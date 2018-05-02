@@ -5,8 +5,8 @@ namespace SelfTest
     public class Course
     {
         public string CourseName {get; set; }
-        public Student[] students = new Student[3];
-        public Teacher[] teachers = new Teacher[2];
+        internal Student[] students = new Student[3];
+        internal Teacher[] teachers = new Teacher[2];
 
 
         public Course(string _courseName)
